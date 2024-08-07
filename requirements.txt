@@ -1,5 +1,6 @@
 python-dotenv
 google-generativeai
+langchain-community
 langchain
 streamlit
 faiss-cpu
